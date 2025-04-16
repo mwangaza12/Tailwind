@@ -1,2 +1,2 @@
 # Tailwind
-A website using tailwind
+Teaching myself the tailwindcss library
